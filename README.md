@@ -3,22 +3,31 @@
 
 ###
 
-<p align="left">Frontend Dev | Js</p>
+## <p align="left">Frontend Dev | Js</p>
 
 
 ###
 
 ###
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="46" alt="python logo"  />
+   <img src="https://skillicons.dev/icons?i=js" height="46" alt="javascript logo"  />
   <img width="14" />
-  <img src="https://skillicons.dev/icons?i=github" height="46" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="46" alt="typescript logo"  />
+  <img width="14" />
+  
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="46" alt="tailwindcss logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=react" height="46" alt="react logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="46" alt="nodejs logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=angular" height="46" alt="angularjs logo"  />
   <img width="14" />
-  <img src="https://skillicons.dev/icons?i=js" height="46" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="46" alt="nextjs logo"  />
+ 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="46" alt="python logo"  />
   <img width="14" />
-  <img src="https://skillicons.dev/icons?i=django" height="46" alt="django logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="46" alt="github logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=ae" height="46" alt="adobeaftereffects logo"  />
   <img width="14" />
@@ -26,15 +35,8 @@
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=figma" height="46" alt="figma logo"  />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="46" alt="tailwindcss logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=ts" height="46" alt="typescript logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=react" height="46" alt="react logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="46" alt="nodejs logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="46" alt="nextjs logo"  />
+
+  
 </div>
 
 ###
