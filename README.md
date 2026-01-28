@@ -1,10 +1,11 @@
-
+<div  >
+<div >
 <h1 align="left"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"></h1>
 
 ###
 
-## <p align="left">Frontend Dev | Js</p>
-
+<h3 align="left">Frontend Dev | Js</h3>
+ </div>
 
 ###
 
@@ -36,3 +37,5 @@
 </div>
 
 ###
+
+</div>
