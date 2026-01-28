@@ -29,10 +29,6 @@
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=github" height="46" alt="github logo"  />
   <img width="14" />
-  <img src="https://skillicons.dev/icons?i=ae" height="46" alt="adobeaftereffects logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=ps" height="46" alt="adobephotoshop logo"  />
-  <img width="14" />
   <img src="https://skillicons.dev/icons?i=figma" height="46" alt="figma logo"  />
   <img width="14" />
 
