@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="left">Frontend Dev | Js</h3>
+<h3 align="left">Dev | Js</h3>
  </div>
 
 ###
